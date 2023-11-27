@@ -1,0 +1,4 @@
+Student1 Name: Karthik MarksScored:95
+Student2 Name: Hardik  MarksScored:92
+Student3 Name: Sachin  MarksScored:100
+Student4 Nmae: Vicky   MarksScored:89
